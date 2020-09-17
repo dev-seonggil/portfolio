@@ -82,7 +82,7 @@
     Character Device Driver를 이용하여 Sys-V Message queue 구현
 ### 1.4.1. 링크
 * [Git] https://github.com/KangSeongGil/SvsV_Implement
-* [프로젝트 설명] https://github.com/KangSeongGil/SvsV_Implement/blob/master/과제%232.pdf
+* [프로젝트 설명] https://github.com/KangSeongGil/SvsV_Implement 에 과제#2.pdf 확인 부탁드립니다. 감사합니다.
 
 # 2. 티몬 인턴사원 시절 프로젝트
 ### 2.1. 링크
